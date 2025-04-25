@@ -28,7 +28,7 @@ const ProductImages = ({ images }: { images: string[] }) => {
                     >
                         <Image
                             src={image}
-                            alt="image"
+                            alt="product image"
                             width={100}
                             height={100}
                         />
